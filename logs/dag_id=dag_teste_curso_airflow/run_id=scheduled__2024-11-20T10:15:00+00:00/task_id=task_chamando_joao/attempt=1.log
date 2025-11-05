@@ -1,0 +1,19 @@
+[2025-11-05T11:44:20.671-0300] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-05T11:44:20.690-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_teste_curso_airflow.task_chamando_joao scheduled__2024-11-20T10:15:00+00:00 [queued]>
+[2025-11-05T11:44:20.698-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_teste_curso_airflow.task_chamando_joao scheduled__2024-11-20T10:15:00+00:00 [queued]>
+[2025-11-05T11:44:20.698-0300] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-05T11:44:20.712-0300] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): task_chamando_joao> on 2024-11-20 10:15:00+00:00
+[2025-11-05T11:44:20.714-0300] {standard_task_runner.py:64} INFO - Started process 40624 to run task
+[2025-11-05T11:44:20.723-0300] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'dag_teste_curso_airflow', 'task_chamando_joao', 'scheduled__2024-11-20T10:15:00+00:00', '--job-id', '839', '--raw', '--subdir', 'DAGS_FOLDER/dag_teste_curso_airflow.py', '--cfg-path', '/var/folders/y3/6lgd1gd11kqdbpl4gd1qk7vr0000gn/T/tmpzo77r1yl']
+[2025-11-05T11:44:20.727-0300] {standard_task_runner.py:91} INFO - Job 839: Subtask task_chamando_joao
+[2025-11-05T11:44:20.796-0300] {task_command.py:426} INFO - Running <TaskInstance: dag_teste_curso_airflow.task_chamando_joao scheduled__2024-11-20T10:15:00+00:00 [running]> on host air-de-joao.lan
+[2025-11-05T11:44:20.876-0300] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='João Vitor' AIRFLOW_CTX_DAG_ID='dag_teste_curso_airflow' AIRFLOW_CTX_TASK_ID='task_chamando_joao' AIRFLOW_CTX_EXECUTION_DATE='2024-11-20T10:15:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-20T10:15:00+00:00'
+[2025-11-05T11:44:20.877-0300] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-05T11:44:20.902-0300] {logging_mixin.py:188} INFO - Olá joao, como voce está? 
+[2025-11-05T11:44:20.902-0300] {logging_mixin.py:188} INFO - Estou bem e voce? 
+[2025-11-05T11:44:20.903-0300] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-05T11:44:20.904-0300] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-05T11:44:20.910-0300] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=dag_teste_curso_airflow, task_id=task_chamando_joao, run_id=scheduled__2024-11-20T10:15:00+00:00, execution_date=20241120T101500, start_date=20251105T144420, end_date=20251105T144420
+[2025-11-05T11:44:20.953-0300] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-11-05T11:44:20.971-0300] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-05T11:44:20.972-0300] {local_task_job_runner.py:222} INFO - ::endgroup::
