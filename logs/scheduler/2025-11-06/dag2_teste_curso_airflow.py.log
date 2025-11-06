@@ -1,0 +1,392 @@
+[2025-11-06T12:21:43.072-0300] {processor.py:161} INFO - Started process (PID=47353) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:21:43.073-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:21:43.074-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:21:43.073-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:21:43.133-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:21:43.314-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:21:43.313-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:21:43.335-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:21:43.335-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:21:43.362-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.293 seconds
+[2025-11-06T12:22:18.252-0300] {processor.py:161} INFO - Started process (PID=47397) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:18.256-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:22:18.258-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:18.257-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:18.341-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:18.491-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:18.491-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:22:18.508-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:18.508-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:22:18.528-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.279 seconds
+[2025-11-06T12:22:51.045-0300] {processor.py:161} INFO - Started process (PID=47420) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:51.046-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:22:51.047-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:51.046-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:51.101-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:22:51.335-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:51.334-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:22:51.362-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:22:51.362-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:22:51.391-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.360 seconds
+[2025-11-06T12:23:25.192-0300] {processor.py:161} INFO - Started process (PID=47439) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:25.195-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:23:25.197-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:25.196-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:25.288-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:25.458-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:25.458-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:23:25.479-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:25.479-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:23:25.504-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.314 seconds
+[2025-11-06T12:23:57.870-0300] {processor.py:161} INFO - Started process (PID=47450) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:57.872-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:23:57.873-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:57.873-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:57.915-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:23:58.082-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:58.082-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:23:58.099-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:23:58.099-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:23:58.120-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.252 seconds
+[2025-11-06T12:24:30.206-0300] {processor.py:161} INFO - Started process (PID=47477) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:24:30.208-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:24:30.209-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:24:30.209-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:24:30.283-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:24:30.428-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:24:30.428-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:24:30.453-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:24:30.452-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:24:30.479-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.275 seconds
+[2025-11-06T12:25:06.998-0300] {processor.py:161} INFO - Started process (PID=47494) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:07.000-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:25:07.001-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:07.001-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:07.056-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:07.238-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:07.238-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:25:07.260-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:07.260-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:25:07.289-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.296 seconds
+[2025-11-06T12:25:44.504-0300] {processor.py:161} INFO - Started process (PID=47532) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:44.506-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:25:44.507-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:44.507-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:44.550-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:25:44.704-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:44.704-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:25:44.726-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:25:44.726-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:25:44.751-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.250 seconds
+[2025-11-06T12:26:19.037-0300] {processor.py:161} INFO - Started process (PID=47556) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:19.043-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:26:19.044-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:19.044-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:19.130-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:19.297-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:19.296-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:26:19.321-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:19.321-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:26:19.344-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.312 seconds
+[2025-11-06T12:26:55.792-0300] {processor.py:161} INFO - Started process (PID=47572) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:55.795-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:26:55.796-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:55.796-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:55.996-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:26:56.419-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:56.418-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:26:56.445-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:26:56.445-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:26:56.487-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.698 seconds
+[2025-11-06T12:27:28.834-0300] {processor.py:161} INFO - Started process (PID=47603) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:27:28.836-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:27:28.837-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:27:28.836-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:27:28.866-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:27:28.966-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:27:28.965-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:27:28.982-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:27:28.982-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:27:29.004-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.173 seconds
+[2025-11-06T12:28:01.139-0300] {processor.py:161} INFO - Started process (PID=47612) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:01.140-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:28:01.141-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:01.141-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:01.172-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:01.290-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:01.289-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:28:01.310-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:01.310-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:28:01.334-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.198 seconds
+[2025-11-06T12:28:33.147-0300] {processor.py:161} INFO - Started process (PID=47621) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:33.148-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:28:33.148-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:33.148-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:33.174-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:28:33.272-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:33.271-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:28:33.288-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:28:33.288-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:28:33.307-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.163 seconds
+[2025-11-06T12:50:04.152-0300] {processor.py:161} INFO - Started process (PID=47626) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:04.153-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:50:04.153-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:04.153-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:04.180-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:04.299-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:04.299-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:50:04.322-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:04.321-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:50:04.344-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.195 seconds
+[2025-11-06T12:50:36.216-0300] {processor.py:161} INFO - Started process (PID=47631) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:36.217-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T12:50:36.218-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:36.217-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:36.244-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T12:50:36.342-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:36.342-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T12:50:36.359-0300] {logging_mixin.py:188} INFO - [2025-11-06T12:50:36.359-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T12:50:36.379-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.166 seconds
+[2025-11-06T13:06:30.816-0300] {processor.py:161} INFO - Started process (PID=47635) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:06:30.817-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:06:30.818-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:06:30.818-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:06:30.847-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:06:30.956-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:06:30.955-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:06:30.974-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:06:30.973-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:06:30.995-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.183 seconds
+[2025-11-06T13:07:03.135-0300] {processor.py:161} INFO - Started process (PID=47647) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:03.137-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:07:03.138-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:03.138-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:03.183-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:03.296-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:03.295-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:07:03.313-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:03.313-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:07:03.333-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.201 seconds
+[2025-11-06T13:07:37.908-0300] {processor.py:161} INFO - Started process (PID=47651) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:37.910-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:07:37.911-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:37.911-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:37.940-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:07:38.040-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:38.039-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:07:38.058-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:07:38.058-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:07:38.084-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.179 seconds
+[2025-11-06T13:08:11.852-0300] {processor.py:161} INFO - Started process (PID=47656) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:11.855-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:08:11.856-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:11.855-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:11.885-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:11.985-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:11.985-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:08:12.004-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:12.004-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:08:12.026-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.176 seconds
+[2025-11-06T13:08:49.712-0300] {processor.py:161} INFO - Started process (PID=47665) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:49.717-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:08:49.718-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:49.717-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:49.800-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:08:49.956-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:49.956-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:08:49.974-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:08:49.974-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:08:49.994-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.285 seconds
+[2025-11-06T13:09:22.435-0300] {processor.py:161} INFO - Started process (PID=47673) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:22.438-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:09:22.439-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:22.438-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:22.468-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:22.567-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:22.567-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:09:22.586-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:22.585-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:09:22.606-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.173 seconds
+[2025-11-06T13:09:55.825-0300] {processor.py:161} INFO - Started process (PID=47678) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:55.826-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:09:55.827-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:55.827-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:55.858-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:09:55.974-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:55.973-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:09:55.993-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:09:55.993-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:09:56.015-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.193 seconds
+[2025-11-06T13:10:29.649-0300] {processor.py:161} INFO - Started process (PID=47682) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:10:29.651-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:10:29.652-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:10:29.652-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:10:29.681-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:10:29.781-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:10:29.781-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:10:29.797-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:10:29.797-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:10:29.817-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.170 seconds
+[2025-11-06T13:11:01.850-0300] {processor.py:161} INFO - Started process (PID=47697) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:11:01.852-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:11:01.853-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:11:01.852-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:11:01.885-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:11:02.002-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:11:02.001-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:11:02.021-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:11:02.021-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:11:02.043-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.197 seconds
+[2025-11-06T13:29:00.112-0300] {processor.py:161} INFO - Started process (PID=47706) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:00.114-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:29:00.115-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:00.115-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:00.143-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:00.243-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:00.243-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:29:00.260-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:00.260-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:29:00.282-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.172 seconds
+[2025-11-06T13:29:32.076-0300] {processor.py:161} INFO - Started process (PID=47713) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:32.078-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:29:32.079-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:32.079-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:32.112-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:29:32.210-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:32.210-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:29:32.226-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:29:32.226-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:29:32.247-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.174 seconds
+[2025-11-06T13:30:07.075-0300] {processor.py:161} INFO - Started process (PID=47734) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:07.077-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:30:07.078-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:07.078-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:07.106-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:07.204-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:07.204-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:30:07.222-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:07.222-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:30:07.245-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.172 seconds
+[2025-11-06T13:30:42.152-0300] {processor.py:161} INFO - Started process (PID=47740) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:42.154-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:30:42.156-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:42.155-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:42.187-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:30:42.286-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:42.286-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:30:42.303-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:30:42.302-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:30:42.322-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.174 seconds
+[2025-11-06T13:46:53.831-0300] {processor.py:161} INFO - Started process (PID=47765) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:46:53.831-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:46:53.832-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:46:53.832-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:46:53.861-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:46:53.963-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:46:53.963-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:46:53.984-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:46:53.984-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:46:54.007-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.179 seconds
+[2025-11-06T13:47:25.995-0300] {processor.py:161} INFO - Started process (PID=47770) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:47:25.996-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:47:25.996-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:47:25.996-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:47:26.022-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:47:26.122-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:47:26.122-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:47:26.139-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:47:26.139-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:47:26.160-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.167 seconds
+[2025-11-06T13:59:39.484-0300] {processor.py:161} INFO - Started process (PID=47789) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:59:39.486-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T13:59:39.487-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:59:39.487-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:59:39.515-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T13:59:39.640-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:59:39.640-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T13:59:39.663-0300] {logging_mixin.py:188} INFO - [2025-11-06T13:59:39.663-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T13:59:39.688-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.207 seconds
+[2025-11-06T14:00:12.765-0300] {processor.py:161} INFO - Started process (PID=47801) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:12.768-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:00:12.769-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:12.768-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:12.800-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:12.906-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:12.906-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:00:12.925-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:12.925-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:00:12.949-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.186 seconds
+[2025-11-06T14:00:44.820-0300] {processor.py:161} INFO - Started process (PID=47805) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:44.821-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:00:44.822-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:44.822-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:44.850-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:00:44.957-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:44.957-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:00:44.975-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:00:44.975-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:00:45.002-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.184 seconds
+[2025-11-06T14:01:18.994-0300] {processor.py:161} INFO - Started process (PID=47811) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:18.996-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:01:18.997-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:18.997-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:19.025-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:19.124-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:19.124-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:01:19.141-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:19.141-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:01:19.167-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.175 seconds
+[2025-11-06T14:01:54.964-0300] {processor.py:161} INFO - Started process (PID=47820) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:54.966-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:01:54.968-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:54.967-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:55.002-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:01:55.138-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:55.137-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:01:55.158-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:01:55.157-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:01:55.179-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.218 seconds
+[2025-11-06T14:02:27.026-0300] {processor.py:161} INFO - Started process (PID=47831) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:27.027-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:02:27.027-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:27.027-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:27.053-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:27.153-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:27.153-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:02:27.170-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:27.170-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:02:27.196-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.173 seconds
+[2025-11-06T14:02:59.094-0300] {processor.py:161} INFO - Started process (PID=47836) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:59.095-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:02:59.096-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:59.096-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:59.122-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:02:59.220-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:59.220-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:02:59.237-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:02:59.237-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:02:59.259-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.167 seconds
+[2025-11-06T14:03:31.132-0300] {processor.py:161} INFO - Started process (PID=47843) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:03:31.133-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:03:31.133-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:03:31.133-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:03:31.161-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:03:31.262-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:03:31.262-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:03:31.279-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:03:31.279-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:03:31.299-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.170 seconds
+[2025-11-06T14:04:03.130-0300] {processor.py:161} INFO - Started process (PID=47848) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:03.131-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:04:03.132-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:03.132-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:03.159-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:03.257-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:03.257-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:04:03.274-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:03.274-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:04:03.293-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.166 seconds
+[2025-11-06T14:04:35.148-0300] {processor.py:161} INFO - Started process (PID=47851) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:35.149-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:04:35.149-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:35.149-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:35.176-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:04:35.276-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:35.276-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:04:35.293-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:04:35.292-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:04:35.313-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.168 seconds
+[2025-11-06T14:05:07.115-0300] {processor.py:161} INFO - Started process (PID=47864) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:07.116-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:05:07.116-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:07.116-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:07.143-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:07.244-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:07.244-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:05:07.261-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:07.260-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:05:07.286-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.174 seconds
+[2025-11-06T14:05:39.159-0300] {processor.py:161} INFO - Started process (PID=47867) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:39.160-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:05:39.161-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:39.160-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:39.187-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:05:39.288-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:39.288-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:05:39.304-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:05:39.304-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:05:39.324-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.167 seconds
+[2025-11-06T14:06:11.207-0300] {processor.py:161} INFO - Started process (PID=47872) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:11.208-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:06:11.209-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:11.209-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:11.235-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:11.333-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:11.333-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:06:11.349-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:11.349-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:06:11.370-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.165 seconds
+[2025-11-06T14:06:43.242-0300] {processor.py:161} INFO - Started process (PID=47877) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:43.244-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:06:43.244-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:43.244-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:43.272-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:06:43.375-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:43.375-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:06:43.393-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:06:43.393-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:06:43.415-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.175 seconds
+[2025-11-06T14:07:16.303-0300] {processor.py:161} INFO - Started process (PID=47882) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:16.305-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:07:16.306-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:16.306-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:16.340-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:16.459-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:16.459-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:07:16.476-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:16.476-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:07:16.499-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.198 seconds
+[2025-11-06T14:07:48.738-0300] {processor.py:161} INFO - Started process (PID=47913) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:48.739-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:07:48.739-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:48.739-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:48.765-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:07:48.864-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:48.864-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:07:48.881-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:07:48.880-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:07:48.902-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.167 seconds
+[2025-11-06T14:08:20.972-0300] {processor.py:161} INFO - Started process (PID=47933) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:20.974-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:08:20.975-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:20.975-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:21.003-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:21.102-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:21.101-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:08:21.118-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:21.118-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:08:21.138-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.169 seconds
+[2025-11-06T14:08:53.983-0300] {processor.py:161} INFO - Started process (PID=47940) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:53.985-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:08:53.986-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:53.986-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:54.023-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:08:54.164-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:54.164-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:08:54.187-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:08:54.186-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:08:54.217-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.236 seconds
+[2025-11-06T14:09:26.501-0300] {processor.py:161} INFO - Started process (PID=47963) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:26.502-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:09:26.502-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:26.502-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:26.533-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:26.649-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:26.649-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:09:26.670-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:26.669-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:09:26.692-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.194 seconds
+[2025-11-06T14:09:58.987-0300] {processor.py:161} INFO - Started process (PID=47995) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:58.987-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T14:09:58.988-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:58.988-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:59.034-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T14:09:59.157-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:59.157-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T14:09:59.180-0300] {logging_mixin.py:188} INFO - [2025-11-06T14:09:59.179-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T14:09:59.209-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.225 seconds
+[2025-11-06T15:03:08.519-0300] {processor.py:161} INFO - Started process (PID=49116) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:08.521-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:03:08.522-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:08.522-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:08.563-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:08.685-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:08.685-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:03:08.703-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:08.702-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:03:08.728-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.212 seconds
+[2025-11-06T15:03:40.569-0300] {processor.py:161} INFO - Started process (PID=49138) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:40.570-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:03:40.571-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:40.571-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:40.598-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:03:40.698-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:40.698-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:03:40.714-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:03:40.714-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:03:40.734-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.168 seconds
+[2025-11-06T15:04:16.617-0300] {processor.py:161} INFO - Started process (PID=49155) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:16.618-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:04:16.619-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:16.619-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:16.650-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:16.776-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:16.776-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:04:16.800-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:16.800-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:04:16.827-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.212 seconds
+[2025-11-06T15:04:49.370-0300] {processor.py:161} INFO - Started process (PID=49190) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:49.371-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:04:49.372-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:49.372-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:49.399-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:04:49.510-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:49.510-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:04:49.528-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:04:49.527-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:04:49.548-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.180 seconds
+[2025-11-06T15:05:21.828-0300] {processor.py:161} INFO - Started process (PID=49217) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:21.831-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:05:21.832-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:21.831-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:21.864-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:21.974-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:21.974-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:05:21.997-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:21.996-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:05:22.018-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.193 seconds
+[2025-11-06T15:05:54.477-0300] {processor.py:161} INFO - Started process (PID=49225) to work on /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:54.478-0300] {processor.py:830} INFO - Processing file /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py for tasks to queue
+[2025-11-06T15:05:54.479-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:54.479-0300] {dagbag.py:545} INFO - Filling up the DagBag from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:54.518-0300] {processor.py:840} INFO - DAG(s) 'da_2_teste_curso_airflow' retrieved from /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py
+[2025-11-06T15:05:54.648-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:54.647-0300] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-11-06T15:05:54.668-0300] {logging_mixin.py:188} INFO - [2025-11-06T15:05:54.667-0300] {dag.py:3947} INFO - Setting next_dagrun for da_2_teste_curso_airflow to 2025-11-05 10:15:00+00:00, run_after=2025-11-06 10:15:00+00:00
+[2025-11-06T15:05:54.696-0300] {processor.py:183} INFO - Processing /Users/joaovitor/airflow/dags/dag2_teste_curso_airflow.py took 0.224 seconds

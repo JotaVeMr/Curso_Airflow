@@ -4,6 +4,7 @@ from airflow.operators.dummy import DummyOperator
 from airflow.operators.python import PythonOperator
 
 
+
 default_args = {
     "owner": "Joao Vutor",
     "start_date": datetime(2025, 11, 5),

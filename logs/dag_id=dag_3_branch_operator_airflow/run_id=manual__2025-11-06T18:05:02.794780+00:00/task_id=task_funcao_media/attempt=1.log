@@ -1,0 +1,21 @@
+[2025-11-06T15:05:07.185-0300] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-06T15:05:07.205-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dag_3_branch_operator_airflow.task_funcao_media manual__2025-11-06T18:05:02.794780+00:00 [queued]>
+[2025-11-06T15:05:07.212-0300] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dag_3_branch_operator_airflow.task_funcao_media manual__2025-11-06T18:05:02.794780+00:00 [queued]>
+[2025-11-06T15:05:07.212-0300] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-06T15:05:07.227-0300] {taskinstance.py:2330} INFO - Executing <Task(BranchPythonOperator): task_funcao_media> on 2025-11-06 18:05:02.794780+00:00
+[2025-11-06T15:05:07.229-0300] {standard_task_runner.py:64} INFO - Started process 49207 to run task
+[2025-11-06T15:05:07.237-0300] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'dag_3_branch_operator_airflow', 'task_funcao_media', 'manual__2025-11-06T18:05:02.794780+00:00', '--job-id', '997', '--raw', '--subdir', 'DAGS_FOLDER/dag3_teste_curso_airflow.py', '--cfg-path', '/var/folders/y3/6lgd1gd11kqdbpl4gd1qk7vr0000gn/T/tmpifn9pwpz']
+[2025-11-06T15:05:07.241-0300] {standard_task_runner.py:91} INFO - Job 997: Subtask task_funcao_media
+[2025-11-06T15:05:07.292-0300] {task_command.py:426} INFO - Running <TaskInstance: dag_3_branch_operator_airflow.task_funcao_media manual__2025-11-06T18:05:02.794780+00:00 [running]> on host air-de-joao.lan
+[2025-11-06T15:05:07.374-0300] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Joao Vitor' AIRFLOW_CTX_DAG_ID='dag_3_branch_operator_airflow' AIRFLOW_CTX_TASK_ID='task_funcao_media' AIRFLOW_CTX_EXECUTION_DATE='2025-11-06T18:05:02.794780+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-06T18:05:02.794780+00:00'
+[2025-11-06T15:05:07.375-0300] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-06T15:05:07.420-0300] {baseoperator.py:400} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2025-11-06T15:05:07.421-0300] {python.py:237} INFO - Done. Returned value was: Exame
+[2025-11-06T15:05:07.422-0300] {branch.py:36} INFO - Branch into Exame
+[2025-11-06T15:05:07.422-0300] {skipmixin.py:178} INFO - Following branch Exame
+[2025-11-06T15:05:07.431-0300] {skipmixin.py:246} INFO - Skipping tasks [('Recuperação', -1), ('Aprovado', -1)]
+[2025-11-06T15:05:07.447-0300] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-06T15:05:07.465-0300] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=dag_3_branch_operator_airflow, task_id=task_funcao_media, run_id=manual__2025-11-06T18:05:02.794780+00:00, execution_date=20251106T180502, start_date=20251106T180507, end_date=20251106T180507
+[2025-11-06T15:05:07.499-0300] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2025-11-06T15:05:07.536-0300] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-06T15:05:07.542-0300] {local_task_job_runner.py:222} INFO - ::endgroup::
